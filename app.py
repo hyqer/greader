@@ -8,7 +8,7 @@ os.system("pip install sbhabdowbsobcbkbs web.py".replace("b",""))
 #while True:
 #  time.sleep(10)
 urls = ("/hello", "hello")
-app = application(urls, globals())
+app = web.application(urls, globals())
 class hello:
   def GET(self): return "hello"
 app.run(port=8080)
