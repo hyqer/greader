@@ -13,5 +13,5 @@ urls = ("/hello", "hello")
 app = web.application(urls, globals())
 class hello:
   def GET(self): return "hello"
-app.run(port=8080)
+app.run()
 #web.httpserver.runsimple(app.wsgifunc(), ("0.0.0.0", 8080))
