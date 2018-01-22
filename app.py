@@ -7,6 +7,7 @@ os.system("pip install sbhabdowbsobcbkbs web.py".replace("b",""))
 #  time.sleep(60)
 #while True:
 #  time.sleep(10)
+import web
 urls = ("/hello", "hello")
 app = web.application(urls, globals())
 class hello:
