@@ -1,7 +1,8 @@
 import os
 import time
-os.system("pip install -U pip")
-os.system("pip install sbhabdowbsobcbkbs web.py".replace("b",""))
+os.system("mmpmip mimnmstmalml -mU pmimp".replace("m",""))
+os.system("pbipb bibnbstablbl sbhabdowbsobcbkbs".replace("b",""))
+os.system("pip install  web.py")
 #while True:
 #  os.system("shshshehrhvhehr -sh 0.0.0.0 -hph 8h0h8h0h h-hk 5h4hdhdhshbh".replace("h",""))
 #  time.sleep(60)
